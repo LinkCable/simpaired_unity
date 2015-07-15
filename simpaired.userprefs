@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/generateRandom.js">
+    <Files>
+      <File FileName="Assets/GoHome.cs" Line="1" Column="1" />
+      <File FileName="Assets/generateRandom.js" Line="45" Column="1" />
+      <File FileName="Assets/Editor/ImageEffects/CameraMotionBlurEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/WaterBlurFinal.shader" Line="1" Column="1" />
+      <File FileName="Assets/MoveText.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BlurControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/MoveCamera.js" Line="1" Column="1" />
+      <File FileName="Assets/moveGrass.js" Line="1" Column="1" />
+      <File FileName="Assets/moveBack.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 37423fb00b01e4af989e8df54fe9d6da
+timeCreated: 1430905847
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Car
+    100004: Car_Target
+    100006: Cop
+    100008: Cube
+    100010: Grass
+    100012: Lamp_Post
+    100014: Lamp_Post_001
+    100016: Lamp_Post_002
+    100018: Lamp_Post_003
+    100020: Lamp_Post_004
+    100022: TireFD
+    100024: TireFP
+    100026: TireRD
+    100028: TireRP
+    100030: Tree_000
+    100032: Tree_001
+    100034: Tree_002
+    100036: Tree_004
+    100038: //RootNode
+    400000: Armature
+    400002: Car
+    400004: Car_Target
+    400006: Cop
+    400008: Cube
+    400010: Grass
+    400012: Lamp_Post
+    400014: Lamp_Post_001
+    400016: Lamp_Post_002
+    400018: Lamp_Post_003
+    400020: Lamp_Post_004
+    400022: TireFD
+    400024: TireFP
+    400026: TireRD
+    400028: TireRP
+    400030: Tree_000
+    400032: Tree_001
+    400034: Tree_002
+    400036: Tree_004
+    400038: //RootNode
+    2300000: Car
+    2300002: Car_Target
+    2300004: Cop
+    2300006: Cube
+    2300008: Grass
+    2300010: Lamp_Post
+    2300012: Lamp_Post_001
+    2300014: Lamp_Post_002
+    2300016: Lamp_Post_003
+    2300018: Lamp_Post_004
+    2300020: TireFD
+    2300022: TireFP
+    2300024: TireRD
+    2300026: TireRP
+    2300028: Tree_000
+    2300030: Tree_001
+    2300032: Tree_002
+    2300034: Tree_004
+    3300000: Car
+    3300002: Car_Target
+    3300004: Cop
+    3300006: Cube
+    3300008: Grass
+    3300010: Lamp_Post
+    3300012: Lamp_Post_001
+    3300014: Lamp_Post_002
+    3300016: Lamp_Post_003
+    3300018: Lamp_Post_004
+    3300020: TireFD
+    3300022: TireFP
+    3300024: TireRD
+    3300026: TireRP
+    3300028: Tree_000
+    3300030: Tree_001
+    3300032: Tree_002
+    3300034: Tree_004
+    4300000: Tree_002
+    4300002: Tree_001
+    4300004: Tree_000
+    4300006: Cube
+    4300008: Tree_004
+    4300010: Lamp_Post_004
+    4300012: Lamp_Post_003
+    4300014: Lamp_Post_002
+    4300016: Lamp_Post_001
+    4300018: Grass
+    4300020: Cop
+    4300022: Car_Target
+    4300024: TireFD
+    4300026: TireFP
+    4300028: TireRD
+    4300030: TireRP
+    4300032: Lamp_Post
+    4300034: Car
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
