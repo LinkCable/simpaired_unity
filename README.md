@@ -8,9 +8,9 @@ As you drive down the road your BAC slowly increases which reduces your reaction
 
 Hopefully by trying this game the player realizes how dangerous drunk driving can be to you and to others.
 
-##Download
+## Download
 You can download a macOS version of the game on the [releases tab](https://github.com/LinkCable/simpaired_unity/releases).
 
-##Images
+## Images
 ![BAC .1](/images/screen1.png "Low Blood Alcohol Content")
 ![BAC .3](/images/screen2.png "Medium Blood Alcohol Content")
